@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartHome</string>
+
+    <string name="login">登陆</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="error_invalid_email">邮箱是非法的</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">此字段是必需的</string>
+    <string name="permission_rationale">"需要提供联系人的权限"</string>
+
+    <string name="air">新风</string>
+    <string name="air_con_1">空调1</string>
+    <string name="air_con_2">空调2</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="pm25">PM2.5</string>
+
+    <string name="back">退出</string>
+    <string name="air_con">空调</string>
+    <string name="weather">室外天气</string>
+</resources>
